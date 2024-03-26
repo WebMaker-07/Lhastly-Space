@@ -3,21 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-header{
-    background-color: aqua;
-    height: 100px;
-}
-nav{
-    background-color: blueviolet;
-}
-section{
-    background-color: brown;
-}
-footer{
-    background-color: darkolivegreen;
-}
-div{
-    display: flex;
-    align-self: start;
-    
+i{
+    font-size:50px;
+    color: black;
 }
